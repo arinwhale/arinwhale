@@ -1,0 +1,667 @@
+{
+  "title": "A Family Business",
+  "scenes": [
+    {
+      "title": "You better be serious.",
+      "time": "Wednesday · 9:42 AM",
+      "messages": [
+        {
+          "sender": "Mia",
+          "text": "I've been thinking about starting a clothing line."
+        },
+        {
+          "sender": "Kylie",
+          "text": "Wait, what kind?"
+        },
+        {
+          "sender": "Mia",
+          "text": "Not sure yet. Maybe elevated basics?"
+        },
+        {
+          "sender": "Khloé",
+          "text": "Weren't you opening a coffee shop last week?"
+        },
+        {
+          "sender": "Mia",
+          "text": "That was last week."
+        },
+        {
+          "sender": "Kendall",
+          "text": "You change plans more than I change flights."
+        },
+        {
+          "sender": "Kim",
+          "text": "Do you have a business plan?"
+        },
+        {
+          "sender": "Mia",
+          "text": "I have a Pinterest board."
+        },
+        {
+          "sender": "Kim",
+          "text": "So that's a no."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "Kim, can you let her finish a sentence?"
+        },
+        {
+          "sender": "Kim",
+          "text": "I'm asking a normal question."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "You always say that."
+        },
+        {
+          "sender": "Kris",
+          "text": "Girls!!! I LOVE this idea! ❤️"
+        },
+        {
+          "sender": "Khloé",
+          "text": "She's already calculating her 10%."
+        },
+        {
+          "sender": "Kris",
+          "text": "I have NOT!!!"
+        }
+      ],
+      "picks": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Nothing stays in this chat.",
+      "time": "Wednesday · 9:51 AM",
+      "messages": [
+        {
+          "sender": "Kris",
+          "text": "I've already reached out to a few people in fashion!"
+        },
+        {
+          "sender": "Mia",
+          "text": "Kris, I said I was THINKING about it."
+        },
+        {
+          "sender": "Kim",
+          "text": "She doesn't have a product yet."
+        },
+        {
+          "sender": "Kris",
+          "text": "That's why she needs our help!"
+        },
+        {
+          "sender": "Kim",
+          "text": "I'm just saying she needs an actual plan."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "Oh good. A business seminar."
+        },
+        {
+          "sender": "Kim",
+          "text": "At least I know how to run a brand."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "Congratulations, Kim."
+        },
+        {
+          "sender": "Khloé",
+          "text": "And we're off."
+        },
+        {
+          "sender": "Kylie",
+          "text": "Mia, want my team to help with the branding?"
+        },
+        {
+          "sender": "Mia",
+          "text": "Wait, seriously?"
+        },
+        {
+          "sender": "Kylie",
+          "text": "Of course."
+        },
+        {
+          "sender": "Kendall",
+          "text": "Maybe decide what you're selling first."
+        },
+        {
+          "sender": "Khloé",
+          "text": "One sensible person in this family."
+        },
+        {
+          "sender": "Kendall",
+          "text": "Don't involve me."
+        }
+      ],
+      "picks": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "title": "Kourtney has left the chat.",
+      "time": "Wednesday · 10:08 AM",
+      "messages": [
+        {
+          "sender": "Kourtney",
+          "text": "I had breakfast with my kids. Why are there 100 messages?"
+        },
+        {
+          "sender": "Khloé",
+          "text": "Mia's a CEO now."
+        },
+        {
+          "sender": "Mia",
+          "text": "I AM NOT."
+        },
+        {
+          "sender": "Kim",
+          "text": "She doesn't even have a name for it."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "Kim, why are you so invested?"
+        },
+        {
+          "sender": "Kim",
+          "text": "Because vibes aren't a business model."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "You can let something happen without managing it."
+        },
+        {
+          "sender": "Kim",
+          "text": "You can let something happen without turning it into therapy."
+        },
+        {
+          "sender": "Khloé",
+          "text": "Getting popcorn. Anyone want anything?"
+        },
+        {
+          "sender": "Kris",
+          "text": "Girls. Please! ❤️"
+        },
+        {
+          "sender": "Kourtney",
+          "text": "I'm leaving this chat."
+        },
+        {
+          "sender": "system",
+          "text": "Kourtney left the conversation."
+        },
+        {
+          "sender": "Kris",
+          "text": "Again?"
+        },
+        {
+          "sender": "Khloé",
+          "text": "Third time this week."
+        },
+        {
+          "sender": "Kim",
+          "text": "Let her."
+        },
+        {
+          "sender": "Kris",
+          "text": "Wait. Mia still needs her designer's number!"
+        }
+      ],
+      "picks": [
+        0,
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "title": "Surprise. You have a launch.",
+      "time": "Wednesday · 12:26 PM",
+      "messages": [
+        {
+          "sender": "invite",
+          "text": "MIA — A FIRST LOOK\nPrivate concept preview\nFriday · Beverly Hills"
+        },
+        {
+          "sender": "Mia",
+          "text": "Can someone explain this???"
+        },
+        {
+          "sender": "Kylie",
+          "text": "The invite is cute."
+        },
+        {
+          "sender": "Mia",
+          "text": "NOT THE POINT."
+        },
+        {
+          "sender": "Kim",
+          "text": "Who made this?"
+        },
+        {
+          "sender": "Kris",
+          "text": "Surprise!!! ❤️"
+        },
+        {
+          "sender": "Kim",
+          "text": "Kris."
+        },
+        {
+          "sender": "Kris",
+          "text": "Just a few friends coming to see Mia's new project!"
+        },
+        {
+          "sender": "Mia",
+          "text": "There is no project. There is Pinterest."
+        },
+        {
+          "sender": "Khloé",
+          "text": "We could put the board on a big screen."
+        },
+        {
+          "sender": "Kendall",
+          "text": "Then I'm not coming."
+        },
+        {
+          "sender": "Kris",
+          "text": "Let's stay positive! We have two whole days!"
+        },
+        {
+          "sender": "Kim",
+          "text": "You can't invite the press and figure out the product later."
+        },
+        {
+          "sender": "Kris",
+          "text": "It worked last time!"
+        },
+        {
+          "sender": "Kim",
+          "text": "Last time we had a product."
+        },
+        {
+          "sender": "Khloé",
+          "text": "Small but relevant detail."
+        }
+      ],
+      "picks": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "title": "An emergency family business.",
+      "time": "Wednesday · 12:41 PM",
+      "messages": [
+        {
+          "sender": "Kim",
+          "text": "How many people did you invite?"
+        },
+        {
+          "sender": "Kris",
+          "text": "Just a few friends."
+        },
+        {
+          "sender": "Kim",
+          "text": "A number, Kris."
+        },
+        {
+          "sender": "Kris",
+          "text": "Twenty-seven."
+        },
+        {
+          "sender": "Kim",
+          "text": "Are you kidding me?"
+        },
+        {
+          "sender": "Kris",
+          "text": "Kim. Don't be dramatic."
+        },
+        {
+          "sender": "system",
+          "text": "Kourtney joined the conversation."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "So now you know what it's like to be volunteered for a job."
+        },
+        {
+          "sender": "Kim",
+          "text": "Didn't you leave?"
+        },
+        {
+          "sender": "Kourtney",
+          "text": "Khloé sent screenshots."
+        },
+        {
+          "sender": "Khloé",
+          "text": "HELLO???"
+        },
+        {
+          "sender": "Kourtney",
+          "text": "Also, you need my designer's number."
+        },
+        {
+          "sender": "Kim",
+          "text": "Then send it."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "Say please."
+        },
+        {
+          "sender": "Kim",
+          "text": "Kourtney."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "Kim."
+        },
+        {
+          "sender": "Mia",
+          "text": "We can still cancel this."
+        },
+        {
+          "sender": "Kylie",
+          "text": "Don't. My team can pull together a concept presentation."
+        },
+        {
+          "sender": "Kendall",
+          "text": "I'll shoot the campaign images. Nobody is making me give a speech."
+        },
+        {
+          "sender": "Khloé",
+          "text": "I'll make the room look less like a family emergency."
+        },
+        {
+          "sender": "Kim",
+          "text": "Mia, we're doing your deck tonight."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "See? You love taking over."
+        },
+        {
+          "sender": "Kim",
+          "text": "I love things being done properly."
+        },
+        {
+          "sender": "Khloé",
+          "text": "Can you two save the divorce for after Mia's event?"
+        }
+      ],
+      "picks": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "title": "All confidence. No inventory.",
+      "time": "Friday · 10:16 AM",
+      "messages": [
+        {
+          "sender": "Kris",
+          "text": "GOOD MORNING GIRLS!!! Today is going to be amazing! ❤️"
+        },
+        {
+          "sender": "Mia",
+          "text": "I might actually throw up."
+        },
+        {
+          "sender": "Kim",
+          "text": "You were still editing the deck last night."
+        },
+        {
+          "sender": "Mia",
+          "text": "You made me work on it until 2 AM!"
+        },
+        {
+          "sender": "Kim",
+          "text": "Your first slide said, “We believe in the power of beauty.”"
+        },
+        {
+          "sender": "Kendall",
+          "text": "That literally means nothing."
+        },
+        {
+          "sender": "Kylie",
+          "text": "The font was really pretty though."
+        },
+        {
+          "sender": "Khloé",
+          "text": "Love the overwhelming confidence in this company."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "I'm here. Why is there a six-foot photo of Mia?"
+        },
+        {
+          "sender": "Kris",
+          "text": "Brand identity, honey!"
+        },
+        {
+          "sender": "Kourtney",
+          "text": "She doesn't have a brand."
+        },
+        {
+          "sender": "Kris",
+          "text": "She does now!"
+        },
+        {
+          "sender": "Kim",
+          "text": "Who approved that?"
+        },
+        {
+          "sender": "Kris",
+          "text": "I did."
+        },
+        {
+          "sender": "Kim",
+          "text": "Of course you did."
+        },
+        {
+          "sender": "Mia",
+          "text": "What am I actually presenting today?"
+        },
+        {
+          "sender": "Kylie",
+          "text": "The concept boards we made last night."
+        },
+        {
+          "sender": "Kendall",
+          "text": "And the photos I shot."
+        },
+        {
+          "sender": "Khloé",
+          "text": "And this family's completely unearned confidence."
+        }
+      ],
+      "picks": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "title": "The launch was the easy part.",
+      "time": "Friday · 9:08 PM",
+      "messages": [
+        {
+          "sender": "Kris",
+          "text": "Girls!!! Tonight was a HUGE success! ❤️"
+        },
+        {
+          "sender": "Kylie",
+          "text": "Mia you looked SO good!!"
+        },
+        {
+          "sender": "Mia",
+          "text": "Thank you 😭 I just sat down for the first time."
+        },
+        {
+          "sender": "Kim",
+          "text": "You did a good job today."
+        },
+        {
+          "sender": "Mia",
+          "text": "High praise coming from you."
+        },
+        {
+          "sender": "Khloé",
+          "text": "Screenshot it. Could be a while before the next one."
+        },
+        {
+          "sender": "Kim",
+          "text": "I compliment people all the time."
+        },
+        {
+          "sender": "Kourtney",
+          "text": "Mostly yourself."
+        },
+        {
+          "sender": "Khloé",
+          "text": "💀💀💀"
+        },
+        {
+          "sender": "Kris",
+          "text": "Okay! Everyone did a great job!"
+        },
+        {
+          "sender": "Kendall",
+          "text": "Did anyone see the photos I took?"
+        },
+        {
+          "sender": "Kylie",
+          "text": "Yes! I posted them to my Story."
+        },
+        {
+          "sender": "Kendall",
+          "text": "You didn't tag me."
+        },
+        {
+          "sender": "Kylie",
+          "text": "…"
+        },
+        {
+          "sender": "Kim",
+          "text": "Mia, send me the revised business plan tomorrow."
+        },
+        {
+          "sender": "Mia",
+          "text": "TOMORROW???"
+        },
+        {
+          "sender": "Kim",
+          "text": "You thought the party meant you were done working?"
+        },
+        {
+          "sender": "Kourtney",
+          "text": "Can she have one day, Kim?"
+        },
+        {
+          "sender": "Kris",
+          "text": "Speaking of tomorrow, I found another investor!"
+        },
+        {
+          "sender": "Mia",
+          "text": "Kris???"
+        },
+        {
+          "sender": "Kim",
+          "text": "KRIS."
+        },
+        {
+          "sender": "Khloé",
+          "text": "Someone take her phone."
+        },
+        {
+          "sender": "Kris",
+          "text": "Love you girls!!! ❤️"
+        },
+        {
+          "sender": "system",
+          "text": "Kourtney silenced notifications."
+        }
+      ],
+      "picks": [
+        3,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  ],
+  "caption": "POV: You casually mention starting a clothing line and Kris Jenner has already sent the invites. 💀\n\nNo samples. No business plan. Not even a brand name.\nBut Kris has made the calls. 💋\n\nSome people spend years trying to get a foot in the door. In this family, you send one text and someone books the room.\n\nYes, building a business takes work. It helps when your starting line comes with a guest list.\n\nP.S. Kourtney has muted the chat again.\n\nFull group chat, the invite, and the Stories in Mia’s phone — link in bio.\n\n#Kardashians #NepoBaby #KrisJenner #KUWTK #Nepotism\n\nFictional fan-made satire. All events and messages are invented, not real private communications. Mia is a fictional younger relative of Kris, not her daughter. Not affiliated with the Kardashian–Jenner family.\n",
+  "disclaimer": "FICTIONAL FAN-MADE SATIRE · NOT REAL MESSAGES"
+}
